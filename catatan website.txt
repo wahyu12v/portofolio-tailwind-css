@@ -1,0 +1,26 @@
+1.index    	 => halaman awal website yang berisi
+		 	 data diri
+		  	 project
+		  	 client
+		  	 hubungi saya
+		  	 halaman awal blog
+
+  isi navbar => 	 home (halaman awal)
+			 about me
+			 Project
+			 Clients
+			 Blogs
+			 Contact
+
+
+2.Blog (Beranda)    => 	halaman website berisi macam macam blog tulisan
+  isi navbar 	  => 	home (halaman awal)
+				beberapa blog website yang terpilih
+				footer
+
+3.Project (Beranda) => 	halaman website berisi macam macam blog tulisan
+  isi navbar 	  => 	home (halaman awal)
+				beberapa project website yang terpilih
+				footer
+
+
